@@ -1,5 +1,0 @@
-vless://a550aa00-4e25-4a29-8e15-a4feb016930e@www.ticketcity.com:443?encryption=none&security=tls&sni=root.mmmki74.ml&type=ws&host=root.mmmki74.ml&path=%2Fokvhws#root.mmmki74.ml_VLESS_WS-clone
-
-trojan://1acd1394-1b26-4b04-ab6e-16dd13dd00de@333.dshgfbv.repl.co:443?security=tls&type=ws&host=333.dshgfbv.repl.co&path=%2F1acd1394-1b26-4b04-ab6e-16dd13dd00de-trojan
-
-vless://2c40dece-7123-4c7b-afa3-d2c5c3402458@ducationvbymi.pages.dev:443?encryption=none&security=tls&sni=ducationvbymi.pages.dev&type=ws&host=ducationvbymi.pages.dev%0D%0Aducationvbymi.pages.dev&path=%2FyssHoiDAOwod#vless%2Fducationvbymi.pages.dev%3A443-ekvqq
