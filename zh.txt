@@ -1,6 +1,0 @@
-vless://4dd32560-2267-4f13-81ce-ed59cee3625a@kz1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=kz1.v2vless.xyz&sni=bvvjhjkmnbv&type=ws#sshocean-yhyhyh
-
-vless://aa458343-f27b-44a2-840e-0bcd8b8872eb@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=jnunjnhgfdds&type=ws#sshocean-bgvgfdrgg
-
-vless://5a7fa9ef-1292-42fc-b9ec-2b09ec5cbd84@sdfdgrttfhghtd:443?path=%2Fvless&security=tls&encryption=none&host=jp1.v2vless.xyz&sni=jp1.v2vless.xyz&type=ws#sshocean-dfdsfer
-
